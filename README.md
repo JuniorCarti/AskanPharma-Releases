@@ -2,7 +2,7 @@
 
 This repository hosts **public release downloads** and **update metadata** for AskanPharma Pharmacy POS.
 
-> **Source code is private.** This repository contains only release assets, checksums, and update manifest files.
+This repository contains only release assets, checksums, and update manifest files.
 
 ## Auto-Update Manifest
 
