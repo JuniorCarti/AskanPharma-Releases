@@ -1,0 +1,10 @@
+﻿{
+  "latest_version": "2.1.3",
+  "minimum_supported_version": "2.1.2",
+  "download_url": "https://github.com/JuniorCarti/AskanPharma-Releases/releases/download/v2.1.3/AskanPharma-2.1.3-windows.zip",
+  "installer_file_name": "AskanPharma-2.1.3-windows.zip",
+  "sha256_checksum": "c7cfd5bdc9a0077370b3d19f1777e9ebf58f3375c05313d0bc7de9f59319ce2e",
+  "release_notes": "v2.1.3 — Public Distribution Release\n\nNew features:\n- Sale-level (cart-wide) discount with Apply/Edit/Remove dialog\n- Compact POS cart footer with sale discount preserved\n- 4-column 88px product grid (auto-responsive)\n- Cost price shown on product cards\n- Compact customer selector widget\n\nFixes:\n- Sales History performance: single JOIN query, pagination, SQL indexes\n- Sale Details RenderFlex overflow fixed\n- Cart header and item price encoding bugs fixed\n- POS product card subtle green tint\n\nAnalytics:\n- Financial Summary card restored on P&L Overview tab\n\nDistribution:\n- Release assets moved to public AskanPharma-Releases repository\n- Auto-updater now points to public manifest URL",
+  "release_date": "2026-06-09T00:00:00Z",
+  "required_update": false
+}
